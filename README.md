@@ -222,6 +222,11 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
+## Author
+### Gavara Lokesh
+📧 lokeshgavara1@gmail.com
+🔗 LinkedIn Profile
+
 > **"Engineered an enterprise-grade AI career assistant using XGBoost ML pipeline trained on 6,241+ real resume-job pairs, achieving 78.14% accuracy and 89.57% ROC AUC with advanced NLP feature engineering, production MLOps, and intelligent fallback systems."**
 
 **🏆 Built with cutting-edge ML technologies for enterprise-level performance**
